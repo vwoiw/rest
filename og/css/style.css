@@ -48,7 +48,7 @@ body {
 }
 #navMenu ul li a {
 	text-align: center;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	height: 30px;
 	width: 150px;
 	display: block;
@@ -79,7 +79,8 @@ body {
 #wlc {
 	text-align: center;
 	padding-top: 150px;
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 48px;
 	color: #ffffff;
 }
@@ -98,7 +99,8 @@ body {
 	z-index: 10;
 }
 #titlepr {
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 36px;
 	color: #ffffff;
 	padding-top: 100px;
@@ -106,7 +108,7 @@ body {
 	padding-right: 10px;
 }
 #pcs {
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 18px;
 	color: #ffffff;
 	padding-left: 10px;
@@ -128,7 +130,7 @@ body {
 #copyright {
 	padding-left: 5px;
 	padding-top: 15px;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 10px;
 	color: #ffffff;
 }
@@ -189,7 +191,7 @@ body {
 }
 #navMenu ul li a {
 	text-align: center;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	height: 30px;
 	width: 150px;
 	display: block;
@@ -220,7 +222,8 @@ body {
 #wlc {
 	text-align: center;
 	padding-top: 200px;
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 60px;
 	color: #ffffff;
 }
@@ -239,7 +242,8 @@ body {
 	z-index: 10;
 }
 #titlepr {
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 48px;
 	color: #ffffff;
 	padding-top: 100px;
@@ -247,7 +251,7 @@ body {
 	padding-right: 50px;
 }
 #pcs {
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 24px;
 	color: #ffffff;
 	padding-left: 50px;
@@ -269,7 +273,7 @@ body {
 #copyright {
 	padding-left: 15px;
 	padding-top: 15px;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 10px;
 	color: #ffffff;
 }
@@ -331,7 +335,7 @@ body {
 }
 #navMenu ul li a {
 	text-align: center;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	height: 30px;
 	width: 150px;
 	display: block;
@@ -362,7 +366,8 @@ body {
 #wlc {
 	text-align: center;
 	padding-top: 200px;
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 60px;
 	color: #ffffff;
 }
@@ -381,7 +386,8 @@ body {
 	z-index: 10;
 }
 #titlepr {
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 48px;
 	color: #ffffff;
 	padding-top: 100px;
@@ -389,7 +395,7 @@ body {
 	padding-right: 100px;
 }
 #pcs {
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 24px;
 	color: #ffffff;
 	padding-left: 100px;
@@ -411,7 +417,7 @@ body {
 #copyright {
 	padding-left: 15px;
 	padding-top: 15px;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 10px;
 	color: #ffffff;
 }
@@ -473,7 +479,7 @@ body {
 }
 #navMenu ul li a {
 	text-align: center;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	height: 30px;
 	width: 150px;
 	display: block;
@@ -504,7 +510,8 @@ body {
 #wlc {
 	text-align: center;
 	padding-top: 200px;
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 60px;
 	color: #ffffff;
 }
@@ -523,7 +530,8 @@ body {
 	z-index: 10;
 }
 #titlepr {
-	font-family: 'arialbold';
+	font-family: 'Arial';
+	font-weight: bold;
 	font-size: 48px;
 	color: #ffffff;
 	padding-top: 100px;
@@ -531,7 +539,7 @@ body {
 	padding-right: 200px;
 }
 #pcs {
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 24px;
 	color: #ffffff;
 	padding-left: 200px;
@@ -553,7 +561,7 @@ body {
 #copyright {
 	padding-left: 15px;
 	padding-top: 15px;
-	font-family: 'arialregular';
+	font-family: 'Arial';
 	font-size: 12px;
 	color: #ffffff;
 }
