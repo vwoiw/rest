@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rest - Official Site</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="favicon.ico">
+<link rel="stylesheet" href="ss.css">
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+<body>
+<nav class="nav">
+	<div class="nav-logo" onclick="view_home_ont()"><img src="Logo.png" alt="Rest" title="Rest"></div>
+	<div class="nav-menu-btn-area">
+		<div class="nav-menu-btn">
+			<span></span>
+			<span></span>
+			<span></span>
+		</div>
+	</div>
+</nav>
+<div class="nav-items">
+<a onclick="view_home()" href="javascript:;">Sign Up</a>
+<a onclick="view_pricing()" href="javascript:;">Pricing</a>
+</div>
+<div class="content">
+<h1>Welcome.</h1>
+<div class="content-su" onclick="view_sign_up();">Sign Up</div>
+</div>
+<div class="pricing">
+<h1>Pricing</h1>
+<p>
+<b>Channel Art:</b> $0.00<br>
+<b>Logo:</b> $0.00<br>
+<b>Website:</b> $0.00
+</p>
+<p>* For websites, domain name services and hosting will not be included. All services must be bought prior to receiving these services.</p>
+</div>
+<div class="footer">&copy; 2015-2018 Rest Designs, All Rights Reserved.</div>
+<script>
+$(".nav-menu-btn").click(function() {
+	$(".nav-items").toggle();
+});
+
+function view_sign_up() {
+	alert("Error: Sign Up Unavailable!");
+}
+
+function view_home_ont() {
+	$(".pricing").hide();
+	$(".content").show();
+}
+
+function view_home() {
+	$(".nav-items").toggle();
+	$(".pricing").hide();
+	$(".content").show();
+}
+
+function view_pricing() {
+	$(".nav-items").toggle();
+	$(".content").hide();
+	$(".pricing").show();
+}
+</script>
+</body>
+</html>
